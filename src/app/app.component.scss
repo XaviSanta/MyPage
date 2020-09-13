@@ -1,0 +1,19 @@
+* {
+  color: rgb(0, 255, 136);
+  text-align: center;
+}
+
+.title {
+  font-size: 3rem;
+}
+
+a {
+  font-size: 3em;
+  display: block;
+  margin: 0.5em;
+  &:hover {
+    color: rgb(0, 206, 137);
+  }
+
+}
+//
